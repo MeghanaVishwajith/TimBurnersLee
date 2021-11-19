@@ -1,0 +1,46 @@
+body {
+    text-align:center;
+    margin:0;
+   
+    
+}
+.img1 {
+    width:180;
+    height:130;
+    border-radius:50%;
+    margin-bottom:50px;
+}
+h1 {
+    text-align:center;
+}
+#welcome1 {
+    background-color: aqua;
+    
+}
+#welcome3 {
+    background-color: aquamarine
+    
+}
+.menu {
+    list-style: none;
+    position: absolute;
+    cursor:pointer;
+    z-index: 10;
+}
+.links {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+} 
+.links:hover {
+    background-color: blueviolet; 
+}
+#welcome3 {
+    padding:50px;
+    text-align: center;
+}
+p {
+    max-width: 450px;
+    margin:25px auto;
+    font-size: 20;
+}
